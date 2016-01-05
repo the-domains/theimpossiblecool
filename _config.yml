@@ -1,0 +1,28 @@
+name: TheImpossibleCool
+favicon: null
+layout_spectrum: 0.9797520316205919
+typography_spectrum: 0.09617521008476615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.42111116158775985
+  lightness: 0.7286763144657016
+  saturation: 0.07165573234669864
+  rhythmicContrast: 0.5599845107644796
+purpose: []
